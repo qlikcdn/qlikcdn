@@ -1,131 +1,125 @@
-qLIK
+<div align="center">
 
-Ship Ideas Into Reality
+# qLIK  
+### Ship Ideas Into Reality
+
+Product & Analytics Engineering Company
+
+</div>
+
+---
+
+## About qLIK
 
 qLIK is a product and analytics engineering company focused on helping organizations move from idea to execution — without compromising data integrity, scalability, or speed.
 
 We design, build, and optimize systems that transform raw signals into actionable decisions.
 
-🚀 What We Do
+---
+
+## 🚀 What We Do
 
 qLIK operates at the intersection of:
 
-Product Engineering
-
-Data & Analytics Infrastructure
-
-Growth Systems
-
-Experimentation Frameworks
+| Product | Data | Growth | Infrastructure |
+|----------|--------|----------|----------------|
+| Product Engineering | Analytics Infrastructure | Growth Systems | Experimentation Frameworks |
 
 We partner with teams that want to:
 
-Validate ideas faster
+- ⚡ Validate ideas faster  
+- 🛡 Deploy with confidence  
+- 📊 Build data-driven products  
+- 📈 Scale without breaking internal systems  
 
-Deploy with confidence
+---
 
-Build data-driven products
+## 🧠 Core Capabilities
 
-Scale without breaking internal systems
-
-🧠 Our Core Capabilities
-1️⃣ Product-to-Execution Architecture
-
+### 01 — Product-to-Execution Architecture
 We help teams structure and ship ideas with production-grade engineering from day one.
 
-Rapid prototyping frameworks
+- Rapid prototyping frameworks  
+- MVP-to-scale architecture planning  
+- Performance-first front-end systems  
+- Deployment-ready pipelines  
 
-MVP-to-scale architecture planning
+---
 
-Performance-first front-end systems
+### 02 — Analytics Engineering
+> Data should answer questions — not create more dashboards.
 
-Deployment-ready pipelines
+- Action-oriented analytics systems  
+- Data modeling frameworks  
+- Signal processing layers  
+- Decision-support infrastructure  
 
-2️⃣ Analytics Engineering
+---
 
-Data should answer questions — not create more dashboards.
-
-We build:
-
-Action-oriented analytics systems
-
-Data modeling frameworks
-
-Signal processing layers
-
-Decision-support infrastructure
-
-3️⃣ Experimentation Systems
-
+### 03 — Experimentation Systems
 Modern teams iterate constantly. We build the backbone that enables it.
 
-Feature flag architectures
+- Feature flag architectures  
+- A/B testing infrastructure  
+- Behavioral tracking pipelines  
+- Feedback loop automation  
 
-A/B testing infrastructure
+---
 
-Behavioral tracking pipelines
-
-Feedback loop automation
-
-4️⃣ Infrastructure & Scalability
-
+### 04 — Infrastructure & Scalability
 Growth shouldn’t require rebuilding everything.
 
 We design systems that are:
 
-Modular
+`Modular` • `Sync-ready` • `Cloud-native` • `Deployment-flexible`
 
-Sync-ready
+---
 
-Cloud-native
+## 🏗 Who We Work With
 
-Deployment-flexible
+- Product-driven startups  
+- Scaling SaaS companies  
+- Growth teams  
+- Data-first organizations  
+- Innovation-focused enterprises  
 
-🏗 Who We Work With
+---
 
-Product-driven startups
+## 🧬 Philosophy
 
-Scaling SaaS companies
-
-Growth teams
-
-Data-first organizations
-
-Innovation-focused enterprises
-
-🧬 Our Philosophy
-
-Move fast — but move structurally.
+> Move fast — but move structurally.
 
 We believe:
 
-Clean architecture compounds.
+- Clean architecture compounds  
+- Data integrity is non-negotiable  
+- Simplicity scales better than complexity  
+- Speed without structure creates long-term drag  
 
-Data integrity is non-negotiable.
+---
 
-Simplicity scales better than complexity.
+## 🌍 How We Operate
 
-Speed without structure creates long-term drag.
+- Lean engineering teams  
+- High-ownership collaboration  
+- Partner-first mindset  
+- Long-term system thinking  
 
-🌍 How We Operate
-
-Lean engineering teams
-
-High-ownership collaboration
-
-Partner-first mindset
-
-Long-term system thinking
-
-We don’t just build features.
+We don’t just build features.  
 We build foundations.
 
-🤝 Partnerships & Inquiries
+---
+
+## 🤝 Partnerships
 
 For collaborations:
 
-contact @ thelumexmarketing
+**contact @ thelumexmarketing**
 
-📜 License
+---
 
-All rights reserved © qLIK
+<div align="center">
+
+© qLIK — All rights reserved
+
+</div>
